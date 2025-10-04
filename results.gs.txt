@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Type A Result</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <main class="quiz">
+    <h2>🎉 You're Type A: The Explorer</h2>
+    <p>You’re adventurous, daring, and constantly seeking new challenges. You're a natural leader and a lifelong learner.</p>
+    <a href="../index.html">← Back to Quiz</a>
+  </main>
+</body>
+</html>
